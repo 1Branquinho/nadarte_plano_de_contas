@@ -1,0 +1,7 @@
+config.yaml
+raw/
+*.xlsx
+__pycache__/
+*.pyc
+.venv/
+venv/
